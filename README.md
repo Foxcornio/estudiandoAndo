@@ -1,5 +1,4 @@
 # estudiandoAndo
-
 > Estudiando Ando es una aplicación de Java diseñada para organizar apuntes de forma **_sencilla_** y con **_etiquetas_**. Creada con **_fines educativos_**, es **_compatible con cualquier sistema operativo que soporte Java_**.<br>Nuestro objetivo no es reemplazar los procesadores de texto, sino ofrecer una **_herramienta complementaria_** que te ayude a **_organizar_** tus notas de manera más eficiente y resumida.<br>Funciona como un índice personal, permitiéndote:
 
 1. Tener acceso rápido a libros o referencias de donde obtuviste la información.
